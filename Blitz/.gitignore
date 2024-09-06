@@ -1,1 +1,26 @@
+# 시스템 파일 무시
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+시작 메뉴/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+
+# Python 환경 및 설정 파일 무시
+*.pyc
+__pycache__/
+.vscode/
 .env
+venv/
